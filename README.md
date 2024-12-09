@@ -41,4 +41,4 @@ JavaScript (optional): If you choose to add more advanced animations or dynamic 
 Browser Developer Tools: For previewing and debugging.
 
 ## Sample Image:
-![Interactive User Card Sample](https://amirdehi.ir/wp-content/uploads/2024/12/interactive-user-card.webp)
+![Interactive User Card Sample](https://amirdehi.ir/wp-content/uploads/2024/12/interactive-user-card.jpg)
